@@ -13,4 +13,5 @@ requests – для запросов к API (например, с рецепта
 
 ## Гайды-статьи, где есть полезная для меня информация
 [Краткое руководство по созданию телеграм-бота на Python с использованием pyTelegramBotAPI... ](https://habr.com/ru/companies/infopulse/articles/428347/)
+
 [Руководство по использованию библиотеки requests для работы с API ... ](https://realpython.com/python-requests/)
