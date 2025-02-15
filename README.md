@@ -7,8 +7,11 @@ requests – для запросов к API (например, с рецепта
 
 ## Референсы, которые мне пригодятся
 Документация pyTelegramBotAPI – [GitHub](https://github.com/eternnoir/pyTelegramBotAPI)
+
 Документация Telegram Bot API – [Официальный сайт](https://core.telegram.org/bots/api)
+
 Примеры работы с API рецептов – [Spoonacular API](https://spoonacular.com/food-api) 
+
 Форматирование сообщений в Telegram – Markdown & HTML в Telegram
 
 ## Гайды-статьи, где есть полезная для меня информация
